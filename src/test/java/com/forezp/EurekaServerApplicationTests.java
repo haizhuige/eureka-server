@@ -13,6 +13,7 @@ public class EurekaServerApplicationTests {
 	public void contextLoads() {
 		System.out.println("1256");
 		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
