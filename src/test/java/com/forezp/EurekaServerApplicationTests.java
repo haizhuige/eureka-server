@@ -14,6 +14,7 @@ public class EurekaServerApplicationTests {
 		System.out.println("1256");
 		System.out.println("4");
 		System.out.println("5");
+		System.out.println("6");
 	}
 
 }
